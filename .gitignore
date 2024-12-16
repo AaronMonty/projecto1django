@@ -8,3 +8,4 @@ db.sqlite3
 .coverage
 __pycache__
 requeriments.txt
+.gitignore
